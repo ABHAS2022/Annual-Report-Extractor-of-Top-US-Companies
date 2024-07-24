@@ -29,7 +29,7 @@ The project consists of two main tasks:
 2. Install the required dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r dependency.txt
     ```
 
 ## Usage
