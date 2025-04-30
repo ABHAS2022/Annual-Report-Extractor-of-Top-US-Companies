@@ -34,18 +34,18 @@ The project consists of two main tasks:
 
 ## Usage
 
-1. Run `Task1.py` to scrape and extract data:
+1. Run `TASK1.py` to scrape and extract data:
 
     ```bash
-    python Task1.py
+    python TASK1.py
     ```
 
     This script will generate an Excel file with the company names, official websites, and annual report links.
 
-2. Run `Task2.py` to verify the links:
+2. Run `TASK2.py` to verify the links:
 
     ```bash
-    python Task2.py
+    python TASL2.py
     ```
 
     This script will check if the extracted links point to PDF files.
